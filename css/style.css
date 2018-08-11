@@ -147,19 +147,19 @@ body {
 }
 
 .bl-icon-about:before {
-	content: "\e000";
+	content: "\1F4E2";
 }
 
 .bl-icon-works:before {
-	content: "\e001";
+	content: "\1F528";
 }
 
 .bl-icon-blog:before {
-	content: "\e002";
+	content: "\1F4F0";
 }
 
 .bl-icon-contact:before {
-	content: "\e003";
+	content: "\1F4DE";
 }
 
 .bl-main > section .bl-icon-close {
@@ -173,7 +173,7 @@ body {
 }
 
 .bl-icon-close:before {
-	content: "\e005";
+	content: "\21A9";
 }
 
 .bl-content, 
